@@ -26,7 +26,7 @@ Partie 3
   1.
     1/ Afin que l’on puisse reconnaitre facilement qu’elle branche est associé à quelle fonctionenement de ne pas mélanger le tout
     
-   4/ git branch -a
+    4/ git branch -a
 
 
   2.
